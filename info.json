@@ -1,0 +1,10 @@
+{
+    "name": "EnemyDetector",
+    "version": "1.0.0",
+    "title": "Enemy Detector",
+    "author": "Scott McPeak",
+    "homepage": "https://github.com/smcpeak/factorio-enemy-detector",
+    "factorio_version": "2.0",
+    "dependencies": ["base >= 2.0"],
+    "description": "Combinator to report when there are nearby enemies."
+}
