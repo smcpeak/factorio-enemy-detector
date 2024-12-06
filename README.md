@@ -7,6 +7,11 @@ enemy units within the detection range of a directly adjacent radar.
 
 Simply place it next to a radar (with no gap) and read the "E" signal.
 
+## State of work
+
+This seems to work properly in preliminary testing, but I haven't yet
+used it in a real game so I don't consider it "done".
+
 ## Balance
 
 In my opinion, base game radars should provide this information already,
